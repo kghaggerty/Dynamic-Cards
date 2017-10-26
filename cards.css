@@ -1,0 +1,9 @@
+.card-box {
+    color: red;
+    border: 1px solid black;
+}
+
+#delete {
+    
+    position: fixed;
+}
